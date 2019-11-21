@@ -1,6 +1,6 @@
-# training-programs
+= training-programs
 
-## Build instructions
+== Build instructions
 * Install https://asciidoctor.org/docs/install-toolchain/[Asciidoctor]
 * Install https://asciidoctor.org/docs/asciidoctor-pdf/[Asciidoctor-PDF]
 * https://asciidoctor.org/docs/#write-with-asciidoctor[Asciidoc Guide]
