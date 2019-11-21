@@ -1,0 +1,20 @@
+= Firearms Familiarization: Training Manual
+:toc: left
+:imagesdir: ../../img
+:leveloffset: +1
+
+image::DC.png[200,200]
+
+include::01-introduction.adoc[]
+
+include::02-preparation.adoc[]
+
+include::03-safety-overview.adoc[]
+
+include::04-mechanical-overview.adoc[]
+
+include::05-hands-on.adoc[]
+
+include::06-safety-drills.adoc[]
+
+include::07-wrapup.adoc[]
