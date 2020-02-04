@@ -3,3 +3,5 @@
 *lock*
 reveal.js/
 Gemfile.lock
+node_modules/
+package-lock.json
