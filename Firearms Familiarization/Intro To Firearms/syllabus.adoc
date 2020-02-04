@@ -20,6 +20,8 @@ Upon completion of this course, students should be able to:
 
 * Differentiate between sight picture and sight alignment, and explain how both impact the ability to hit the target
 
+* Demonstrate ability to diagnose and correct weapons malfunctions
+
 * Understand safe storage of firearms and its importance to community safety
 
 === Course Composition
@@ -41,5 +43,6 @@ For the practical portion, you will be graded on:
 * Ability to listen to and interpret range commands
 * Range etiquette
 * Safe loading and unloading of firearms
-* Pistol Marksmanship: All (5) rounds on target at 5yd
-* Rifle Marksmanship: All (5) rounds on target at 20yd 
+* Pistol Marksmanship: 3 rounds, reload, 2 rounds, on target at 5 yd
+* Rifle Marksmanship: 3 rounds, reload, 2 rounds, on target at 20 yd
+* Safe and effective management of weapons malfunctions
