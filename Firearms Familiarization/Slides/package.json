@@ -1,7 +1,6 @@
 {
   "name": "Slides",
   "version": "1.0.0",
-  "description": "",
   "main": "reveal.js",
   "dependencies": {
     "@asciidoctor/reveal.js": "^3.1.0",
@@ -13,5 +12,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }

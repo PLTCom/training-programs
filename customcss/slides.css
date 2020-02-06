@@ -1,0 +1,79 @@
+section.red.background {
+    background-color: red;
+}
+
+.reveal section.divide {
+    background-size: 50% 50%;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+.reveal .west {
+    position: fixed;
+    font-size: x-large;
+    top: 20%;
+    left: 10%;
+}
+  
+.reveal .east {
+    position: fixed;
+    font-size: x-large;
+    top: 20%;
+    right: 10%;
+}
+
+.reveal .left {
+    left:-8.33%;
+    text-align: left;
+    float: left;
+    width:50%;
+    z-index:-10;
+    font-size: x-large;
+}
+  
+.reveal .right {
+    left:31.25%;
+    top: 75px;
+    float: right;
+    text-align: right;
+    z-index:-10;
+    width:50%;
+    font-size: x-large;
+}
+
+.reveal .left-large {
+    left:-8.33%;
+    text-align: left;
+    float: left;
+    width:50%;
+    z-index:-10;
+}
+  
+.reveal .right-large {
+    left:31.25%;
+    top: 75px;
+    float: right;
+    text-align: right;
+    z-index:-10;
+    width:50%;
+}
+
+
+.reveal .left-small {
+    left:-8.33%;
+    text-align: left;
+    float: left;
+    width:50%;
+    z-index:-10;
+    font-size: large;
+}
+  
+.reveal .right-small {
+    left:31.25%;
+    top: 75px;
+    float: right;
+    text-align: right;
+    z-index:-10;
+    width:50%;
+    font-size: large;
+}
