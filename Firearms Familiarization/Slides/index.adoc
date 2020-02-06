@@ -1,0 +1,48 @@
+= Firearms Familiarization
+:imagesdir: img
+:title-slide-background-image: BrushedMetalBackground.jpg
+:customcss: slides.css
+//:revealjs_center: false
+
+//[%notitle]
+//== People's Liberation Training Committee
+//image::img/PLTCOM-logo.jpg[background]
+
+== Course Outline
+image::BrushedMetalBackground.jpg[background, size=cover]
+
+[.left]
+* Universal Safety Rules
+* Defining a gun’s ‘action’
+* What IS a Revolver?
+* What IS a Semi-Automatic?
+* What IS a Striker-Fired Pistol?
+* The Magazine
+* Clearing a revolver
+* Clearing a semi-automatic
+
+[.right]
+* First Time Buyers Tips
+* Pros / Cons
+* Ammunition components
+* Understanding calibers
+* Ammunition care and storage
+* Common Malfunctions
+
+== Part 1 Section 1 - Firearm Safety Fundamentals
+image::BrushedMetalBackground.jpg[background, size=cover]
+
+[%notitle]
+=== safety
+image::BrushedMetalBackground.jpg[background, size=cover]
+
+[.left-small]
+* MAJORITY of “accidental” firearm injuries / deaths result from NEGLIGENCE of following the 4 fundamental rules of firearm safety.
+* New Users - Get familiar and practice as much as able. 
+* Experienced Users - Are you complacent? Do you ALWAYS practice proper safety? NEVER allow your comfort with experience become complacency.
+
+[.right-small]
+* Rule 1 - ALWAYS keep firearm pointed in a safe direction.
+* Rule 2 - Keep your finger straight and off the trigger until you NEED to fire.
+* Rule 3 - ALWAYS treat a firearm as if it is loaded. (Drop/Lock/Look)
+* Rule 4 - Understand the “Big Picture Theory”
