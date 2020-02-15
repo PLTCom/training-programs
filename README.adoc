@@ -7,12 +7,11 @@ This repo holds all instructor manuals and student handouts for PLT-Com training
 * https://asciidoctor.org/docs/#write-with-asciidoctor[Asciidoc Guide]
 
 == Contributing
-
 1. Install https://git-scm.com/book/en/v2/Getting-Started-Installing-Git[Git]
-2. You may also want to install a https://desktop.github.com/[Git Browser] if you are unfamiliar with Git
+2. You may also want to install a visual git browser (see below) if you are unfamiliar with Git. 
 3. Create a GitHub.com account and https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account[upload your ssh key]
 4. Clone the repo `git clone <repo>` from the link above
-5. Create a new brach from **develop** and name it something appropriate to your work, e.g. `git checkout -b community-gardening-manual`
+5. Create a new brach from **develop** and name it something appropriate to your work, e.g. `git checkout -b feature/community-gardening-manual`
 6. Save work on your branch either from the git CLI or GitHub Desktop. **Do not save binaries like PDFs or .exe**
 7. Commit and push your work to GitHub periodically.
 +
@@ -23,3 +22,8 @@ git push
 +
 8. When ready, create a https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests[pull request] with **develop** as the target branch.
 9. Upon approval, your branch may be merged with **master** and tagged as part of a release.
+
+.Recommended Tools
+* A visual Git browser like https://desktop.github.com/[GitHub Desktop] or https://www.gitkraken.com/[Git Kraken]
+* A text editor with git integration like https://code.visualstudio.com/[VSCode] or https://atom.io/[Atom]
+* For Windows users, https://www.puttygen.com/[PuttyGen] for SSH key management
