@@ -1,9 +1,25 @@
-= training-programs
+= Training Programs
+This repo holds all instructor manuals and student handouts for PLT-Com training programs.
 
 == Build instructions
 * Install https://asciidoctor.org/docs/install-toolchain/[Asciidoctor]
 * Install https://asciidoctor.org/docs/asciidoctor-pdf/[Asciidoctor-PDF]
 * https://asciidoctor.org/docs/#write-with-asciidoctor[Asciidoc Guide]
-* Slides done in https://github.com/asciidoctor/asciidoctor-reveal.js[Reveal.js]
 
-**Quick Summary**
+== Contributing
+
+1. Install https://git-scm.com/book/en/v2/Getting-Started-Installing-Git[Git]
+2. You may also want to install a https://desktop.github.com/[Git Browser] if you are unfamiliar with Git
+3. Create a GitHub.com account and https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account[upload your ssh key]
+4. Clone the repo `git clone <repo>` from the link above
+5. Create a new brach from **develop** and name it something appropriate to your work, e.g. `git checkout -b community-gardening-manual`
+6. Save work on your branch either from the git CLI or GitHub Desktop. **Do not save binaries like PDFs or .exe**
+7. Commit and push your work to GitHub periodically.
++
+----
+git commit -a -m "commit message"
+git push
+----
++
+8. When ready, create a https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests[pull request] with **develop** as the target branch.
+9. Upon approval, your branch may be merged with **master** and tagged as part of a release.
