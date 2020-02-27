@@ -1,0 +1,6 @@
+= Student Guide
+include::attributes.adoc[]
+
+image::{logo-pic}[]
+
+include::{docsdir}01-chapter1.adoc[]
