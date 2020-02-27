@@ -1,0 +1,2 @@
+= EXAMPLE COURSE
+The following course contains a student guide, an instructor guide, and handouts for an example course. 
