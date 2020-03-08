@@ -16,6 +16,8 @@ The following course contains a student guide, an instructor guide, and handouts
     │       ├── 02-chapter2.adoc
     │       ├── 03-chapter3.adoc
     │       └── 04-chapter4.adoc
+    ├── img
+    │   └── image.png
     └── master.adoc <-- Master file that defines the whole book.
 ├── README.adoc <-- contains the course overview, links to slides, etc
 ├── student-guide
@@ -27,5 +29,7 @@ The following course contains a student guide, an instructor guide, and handouts
     │       ├── 02-chapter2.adoc
     │       ├── 03-chapter3.adoc
     │       └── 04-chapter4.adoc
+    ├── img
+    │   └── 0
     └── master.adoc <-- Master file that defines the whole book.
 ----
