@@ -1,6 +1,4 @@
-= Student Guide
+= Student Guide: People's Liberation and Training Committee
 include::attributes.adoc[]
 
-image::{logo-pic}[]
-
-include::{docsdir}01-chapter1.adoc[]
+include::docs/assembly.adoc[]

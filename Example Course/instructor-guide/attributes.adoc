@@ -3,4 +3,4 @@
 :leveloffset: +1
 :doctype: book
 :logo-pic: pltcom-logo-small.png
-:docsdir: ./docs/modules/
+:title-logo-image: image:{logo-pic}[]
