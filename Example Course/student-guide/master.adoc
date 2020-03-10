@@ -1,0 +1,4 @@
+= Student Guide: People's Liberation and Training Committee
+include::attributes.adoc[]
+
+include::docs/assembly.adoc[]

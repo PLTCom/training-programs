@@ -1,0 +1,6 @@
+:toc: left
+:imagesdir: ./img
+:leveloffset: +1
+:doctype: book
+:logo-pic: pltcom-logo-small.png
+:title-logo-image: image:{logo-pic}[]

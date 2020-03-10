@@ -1,0 +1,35 @@
+= EXAMPLE COURSE
+The following course contains a student guide, an instructor guide, and handouts for an example course. 
+
+== Directory Layout
+
+.File Structure
+----
+├── handouts
+    └── handout1.adoc
+├── instructor-guide
+    ├── attributes.adoc <-- File with attributes for the whole book.
+    ├── docs <-- Directory with assemblies and modules.
+    │   ├── assembly-1.adoc <-- Assembly files with include statements for modules.
+    │   └── modules (chapters)
+    │       ├── 01-chapter1.adoc
+    │       ├── 02-chapter2.adoc
+    │       ├── 03-chapter3.adoc
+    │       └── 04-chapter4.adoc
+    ├── img
+    │   └── image.png
+    └── master.adoc <-- Master file that defines the whole book.
+├── README.adoc <-- contains the course overview, links to slides, etc
+├── student-guide
+    ├── attributes.adoc <-- File with attributes for the whole book.
+    ├── docs <-- Directory with assemblies and modules.
+    │   ├── assembly-1.adoc <-- Assembly files with include statements for modules.
+    │   └── modules (chapters)
+    │       ├── 01-chapter1.adoc
+    │       ├── 02-chapter2.adoc
+    │       ├── 03-chapter3.adoc
+    │       └── 04-chapter4.adoc
+    ├── img
+    │   └── 0
+    └── master.adoc <-- Master file that defines the whole book.
+----
