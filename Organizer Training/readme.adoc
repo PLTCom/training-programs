@@ -1,0 +1,23 @@
+// This is a skeleton. Duplicate this file and edit, do not modifiy this file
+= PLTCOM Organizer Training
+
+== Purpose and Overview
+This course is designed to give new leaders in PLTCOM the foundation they need to lead effectively in the organization. Topics covered include:
+
+* Understanding Member Engagement
+* One on One conversations
+* Engaging and Interacting with the Community
+// Need to include module on understanding privilege, how not to be a shitty cishet white dude
+* PLTCOM processes and procedures
+
+== Course Objectives
+// List what your students will learn from the course here
+
+
+
+
+== Course Composition
+// What will your course look like? Lecture? Hands-on?
+
+== Course Assessments
+// How will students be assessed for their knowledge?
