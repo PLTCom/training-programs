@@ -1,0 +1,15 @@
+= Lesson 1: What is organizing?
+
+////
+
+Why organize?
+
+What do we mean by "organizing?"
+
+Who are we organizing?
+
+Big O vs Little o organizing
+
+
+////
+

@@ -1,16 +1,14 @@
-////
-Course brainstorming
+= Course brainstorming
 
+== Topics
 
-Big 'O' vs little 'o' organizing
+* Big 'O' vs little 'o' organizing
+* organizing bullseye
+* Revolutionary Feminism, queerness, minorities and Organizing: How to not be the shitty cishet white dude
+* One on Ones
 
-organizing bullseye
-
-Revolutionary Feminism, queerness, minorities and Organizing: How to not be the shitty cishet white dude
-
-One on Ones
-
-Mao:
+== Literature 
+Mao ::
 * Combat Liberalism
 * Oppose Book Worship
 * Where do Do Correct Ideas Come From
@@ -18,19 +16,18 @@ Mao:
 * Reform Our Study
 * On Practice
 
-Lenin:
+Lenin ::
 * Terms of Admission into Communist International
 
-Comintern, 3rd Congress:
+Comintern, 3rd Congress ::
 
 * Guidelines on the Organizational Structure of Communist Parties, on the Methods and Content of their Work
 
-PLTCOM things:
+== PLTCOM-specific topics
+PLTCOM things ::
 
 * How to fill out reports
 * Filling out a one year plan
 * Harassment, grievance and probationary procedures
 * Using Limesurvey
 
-
-////
