@@ -1,0 +1,4 @@
+= Firearms 101: Introduction to Firearms
+:imagesdir: ../img
+toc::macro
+
