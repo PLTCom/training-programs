@@ -1,4 +1,24 @@
 = Firearms 101: Introduction to Firearms
-:imagesdir: ../img
-toc::macro
+
+<<<
+
+:leveloffset: +1
+
+include::01-safety.adoc[]
+
+<<<
+
+include::02-types.adoc[]
+
+<<<
+
+include::03-basic-functions.adoc[]
+
+<<<
+
+include::04-storage-handling.adoc[]
+
+<<<
+
+include::05-foundational-marksmanship.adoc[]
 
