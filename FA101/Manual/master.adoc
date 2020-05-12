@@ -1,5 +1,5 @@
 = Firearms 101: Introduction to Firearms
-
+include::attributes.adoc[]
 <<<
 
 :leveloffset: +1
