@@ -1,0 +1,5 @@
+= Firearms 101: Introduction to Firearms
+include::attributes.adoc[]
+:includedir: chapters
+
+include::{includedir}/assembly.adoc[]

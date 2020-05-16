@@ -35,7 +35,8 @@ Full style guide https://github.com/PLTCom/style-guide[here].
 
 * Each handbook or manual should be in it's own folder, named descriptively.
 * Use subfolders for different books or handouts. e.g. `Manual/` and 'Handouts'
-* Documents should be named with a two-digit number leading, with `00-main.adoc` being the primary document in each folder.
+* 'master.adoc' is reserved for the master file, used to build the handbook or manual
+* Documents should be named with a two-digit number leading, with `01-chapter-1.adoc` being the first chapter in each folder.
 * Separate chapters or major sections into their own files to enable modular editing and builds.
 * 
 +
@@ -45,7 +46,8 @@ training-programs/
     Handouts/
     img/
     Manual/
-      00-main.adoc
-      01-chapter-1.adoc
-      etc...adoc
+     master.adoc
+     attributes.adoc
+     01-chapter-1.adoc
+     etc...adoc
 ----
