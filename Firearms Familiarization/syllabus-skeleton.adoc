@@ -1,0 +1,14 @@
+// This is a skeleton. Duplicate this file and edit, do not modifiy this file
+= Basic Firearms Safety and Operation
+
+=== Course Objectives
+// List what your students will learn from the course here
+
+
+
+
+=== Course Composition
+// What will your course look like? Lecture? Hands-on?
+
+=== Course Assessments
+// How will students be assessed for their knowledge?
